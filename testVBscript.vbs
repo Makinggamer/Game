@@ -2,7 +2,7 @@ Sub main()
 
 dim a,i
 
-int a = 1 to i
+For a = 1 to i
 
 msgbox "a"
 
